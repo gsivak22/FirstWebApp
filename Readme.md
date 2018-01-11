@@ -1,0 +1,1 @@
+This is sample app which haveing sample curd oparations 
