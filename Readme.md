@@ -1,1 +1,1 @@
-This is sample app which haveing sample curd oparations 
+This is app which haveing sample curd oparations  by Angular JS
